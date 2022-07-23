@@ -1,5 +1,7 @@
 {
     "workbench.startupEditor": "none",
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
     "editor.renderWhitespace": "all",
     "editor.cursorStyle": "block",
     "editor.fontFamily": "'MesloLGM NF', Consolas, 'Courier New', monospace",
