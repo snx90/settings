@@ -1,0 +1,9 @@
+{
+    "workbench.startupEditor": "none",
+    "editor.renderWhitespace": "all",
+    "editor.cursorStyle": "block",
+    "editor.fontFamily": "'MesloLGM NF', Consolas, 'Courier New', monospace",
+    "editor.rulers": [80],
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.colorTheme": "GitHub Dark Default"
+}
