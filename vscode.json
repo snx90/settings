@@ -7,6 +7,22 @@
     "editor.fontFamily": "'MesloLGM NF', Consolas, 'Courier New', monospace",
     "editor.fontSize": 14,
     "editor.rulers": [80],
+    "editor.tokenColorCustomizations": {
+      "comments": "#FF748C"
+    },
+    "better-comments.multilineComments": true,
+    "better-comments.highlightPlainText": true,
+    "better-comments.tags": [
+        {
+          "tag": "/",
+          "color": "#d400ff",
+          "strikethrough": false,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": false
+        },
+      ],
     "security.workspace.trust.untrustedFiles": "open",
     "workbench.colorTheme": "GitHub Dark Default",
     "workbench.colorCustomizations": {
@@ -15,5 +31,5 @@
     "remote.SSH.remotePlatform": {
         "127.0.0.1": "linux"
     },
-    "terminal.integrated.enableMultiLinePasteWarning": false
+    "terminal.integrated.enableMultiLinePasteWarning": false,
 }
