@@ -8,5 +8,12 @@
     "editor.fontSize": 14,
     "editor.rulers": [80],
     "security.workspace.trust.untrustedFiles": "open",
-    "workbench.colorTheme": "GitHub Dark Default"
+    "workbench.colorTheme": "GitHub Dark Default",
+    "workbench.colorCustomizations": {
+        "editorRuler.foreground": "#ffa500"
+    },
+    "remote.SSH.remotePlatform": {
+        "127.0.0.1": "linux"
+    },
+    "terminal.integrated.enableMultiLinePasteWarning": false
 }
