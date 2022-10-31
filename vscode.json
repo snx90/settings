@@ -44,7 +44,7 @@
       "127.0.0.1": "linux",
   },
   "terminal.integrated.enableMultiLinePasteWarning": false,
-  "terminal.integrated.fontSize": 12,
+  "terminal.integrated.fontSize": 10,
   "trailing-spaces.backgroundColor": "rgba(255,0,0,1)",
   "trailing-spaces.borderColor": "rgba(255,0,0,1)",
   "C_Cpp.default.cppStandard": "c++23"
