@@ -1,28 +1,31 @@
 {
   "workbench.startupEditor": "none",
+  "workbench.colorTheme": "GitHub Dark",
+  "workbench.colorCustomizations": {
+      "editorRuler.foreground": "#FFA500",
+  },
   "editor.insertSpaces": true,
   "editor.tabSize": 2,
   "editor.renderWhitespace": "all",
   "editor.cursorStyle": "block",
-  "editor.fontFamily": "'MesloLGM NF', 'ProggyCleanTTSZ NF'",
-  "editor.fontSize": 12,
-  "editor.fontWeight": "normal",
+  "editor.fontSize": 10,
+  "editor.fontWeight": "100",
   "editor.rulers": [80],
   "editor.tokenColorCustomizations": {
     "comments": "#676767",
-    "keywords": "#FFE135",
   },
+  "editor.mouseWheelZoom": true,
   "better-comments.multilineComments": true,
   "better-comments.highlightPlainText": true,
   "better-comments.tags": [
-      { 
+      {
         "_note": "For documenting classes and functions",
         "tag": "/",
         "color": "#4B9599",
         "strikethrough": false,
         "underline": false,
         "backgroundColor": "transparent",
-        "bold": false,
+        "bold": true,
         "italic": false,
       },
       {
@@ -37,13 +40,12 @@
       },
     ],
   "security.workspace.trust.untrustedFiles": "open",
-  "workbench.colorTheme": "GitHub Dark Default",
-  "workbench.colorCustomizations": {
-      "editorRuler.foreground": "#FFA500",
-  },
   "remote.SSH.remotePlatform": {
       "127.0.0.1": "linux",
   },
   "terminal.integrated.enableMultiLinePasteWarning": false,
   "terminal.integrated.fontSize": 12,
+  "trailing-spaces.backgroundColor": "rgba(255,0,0,1)",
+  "trailing-spaces.borderColor": "rgba(255,0,0,1)",
+  "C_Cpp.default.cppStandard": "c++23"
 }
